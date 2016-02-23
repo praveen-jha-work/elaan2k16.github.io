@@ -634,11 +634,11 @@ body{
 	width:120px;
 }
 .gallery_photo_0 div{
-	background-image:url(../resources/pica1.png);
+	background-image:url(../resources/Poster1.jpg);
 	background-size:contain;
 }
 .gallery_photo_1 div{
-	background-image:url(../resources/pica2.png);
+	background-image:url(../resources/Poster2.jpg);
 	background-size:contain;
 }
 .gallery_photo_2 div{
@@ -650,7 +650,7 @@ body{
 	background-size:contain;
 }
 .gallery_photo_4 div{
-	background-image:url(../resources/pica5.png);
+	background-image:url(../resources/pica1.png);
 	background-size:contain;
 }
 .gallery_photo_5 div{
