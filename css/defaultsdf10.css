@@ -50,6 +50,8 @@ body{
 	overflow:hidden;
 	font-family:"geniso", trebuchet;
 	color:#FFF;
+	width: 100%;
+	height: 100%;
 	background-color:#000;
 	/*background-image:url(../resources/Blue-Space-Cloud.jpg);*/
 	background-size:cover;
